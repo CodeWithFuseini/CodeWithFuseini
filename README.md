@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React Native, MERN, SQL, Mysql, MONGODB**
 
-- 📫 How to reach me **fuseinimohammed176@gmail.com**, **codefuseini176@gmail.com**
+- 📫 How to reach me **fuseinimohammed176@gmail.com** , **codefuseini176@gmail.com**
 
 - ⚡ Fun fact **Funny**
 
